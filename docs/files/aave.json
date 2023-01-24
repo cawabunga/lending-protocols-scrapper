@@ -1,0 +1,150 @@
+[
+  {
+    "tokenSymbol": "BUSD",
+    "apy": "1.86%"
+  },
+  {
+    "tokenSymbol": "DAI",
+    "apy": "1.40%"
+  },
+  {
+    "tokenSymbol": "FRAX",
+    "apy": "1.84%"
+  },
+  {
+    "tokenSymbol": "GUSD",
+    "apy": "154.34%"
+  },
+  {
+    "tokenSymbol": "LUSD",
+    "apy": "1.37%"
+  },
+  {
+    "tokenSymbol": "sUSD",
+    "apy": "1.48%"
+  },
+  {
+    "tokenSymbol": "TUSD",
+    "apy": "1.79%"
+  },
+  {
+    "tokenSymbol": "USDC",
+    "apy": "1.84%"
+  },
+  {
+    "tokenSymbol": "USDP",
+    "apy": "1.50%"
+  },
+  {
+    "tokenSymbol": "USDT",
+    "apy": "3.08%"
+  },
+  {
+    "tokenSymbol": "1INCH",
+    "apy": "0.07%"
+  },
+  {
+    "tokenSymbol": "AAVE",
+    "apy": "0%"
+  },
+  {
+    "tokenSymbol": "CRV",
+    "apy": "1.97%"
+  },
+  {
+    "tokenSymbol": "DPI",
+    "apy": "0.06%"
+  },
+  {
+    "tokenSymbol": "ENS",
+    "apy": "0.02%"
+  },
+  {
+    "tokenSymbol": "LINK",
+    "apy": "0.21%"
+  },
+  {
+    "tokenSymbol": "MKR",
+    "apy": "0.04%"
+  },
+  {
+    "tokenSymbol": "SNX",
+    "apy": "7.02%"
+  },
+  {
+    "tokenSymbol": "stETH",
+    "apy": "0%"
+  },
+  {
+    "tokenSymbol": "UNI",
+    "apy": "0.07%"
+  },
+  {
+    "tokenSymbol": "WBTC",
+    "apy": "0.08%"
+  },
+  {
+    "tokenSymbol": "ETH",
+    "apy": "1.26%"
+  },
+  {
+    "tokenSymbol": "FEI",
+    "apy": "1.01%"
+  },
+  {
+    "tokenSymbol": "UST",
+    "apy": "0.04%"
+  },
+  {
+    "tokenSymbol": "AMPL",
+    "apy": "0.13%"
+  },
+  {
+    "tokenSymbol": "BAL",
+    "apy": "5.13%"
+  },
+  {
+    "tokenSymbol": "BAT",
+    "apy": "0.19%"
+  },
+  {
+    "tokenSymbol": "CVX",
+    "apy": "2.28%"
+  },
+  {
+    "tokenSymbol": "ENJ",
+    "apy": "0.13%"
+  },
+  {
+    "tokenSymbol": "KNC",
+    "apy": "0.60%"
+  },
+  {
+    "tokenSymbol": "MANA",
+    "apy": "0.09%"
+  },
+  {
+    "tokenSymbol": "RAI",
+    "apy": "23.27%"
+  },
+  {
+    "tokenSymbol": "REN",
+    "apy": "0.27%"
+  },
+  {
+    "tokenSymbol": "renFIL",
+    "apy": "0%"
+  },
+  {
+    "tokenSymbol": "xSUSHI",
+    "apy": "<0.01%"
+  },
+  {
+    "tokenSymbol": "YFI",
+    "apy": "0.35%"
+  },
+  {
+    "tokenSymbol": "ZRX",
+    "apy": "<0.01%"
+  }
+]
