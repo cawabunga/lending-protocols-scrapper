@@ -1,0 +1,52 @@
+name: Scrapper
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scrapper:
+    name: Scrapper
+    timeout-minutes: 10
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        node-version: [18]
+
+    runs-on: ${{ matrix.os }}
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
+
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 6.32.9
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run Playwright
+        run: yarn playwright test
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: 'files'
+          message: 'Update files'
+
+      - uses: actions/upload-artifact@v3
+        if: always()
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 30
