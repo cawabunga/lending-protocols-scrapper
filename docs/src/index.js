@@ -17,6 +17,7 @@ export class AppComponent extends HTMLElement {
 	render() {
 		this.innerHTML = `<table>
 	<thead>
+		<th>Protocol</th>
 		<th>Symbol</th>
 		<th>APY</th>
 	</thead>
@@ -31,14 +32,13 @@ export class AppComponent extends HTMLElement {
 			.map((aprItem) => {
 				const tr = document.createElement('tr');
 
-				const symbolCol = document.createElement('td');
-				symbolCol.innerText = aprItem.tokenSymbol;
-
-				const apyCol = document.createElement('td');
-				apyCol.innerText = aprItem.apy;
-
-				tr.append(symbolCol);
-				tr.append(apyCol);
+				[
+					makeTd(aprItem.protocol),
+					makeTd(aprItem.tokenSymbol),
+					makeTd(aprItem.apy),
+				].forEach((node) => {
+					tr.append(node)
+				})
 
 				return tr;
 			})
@@ -49,6 +49,12 @@ export class AppComponent extends HTMLElement {
 }
 
 customElements.define(AppComponent.tagName, AppComponent);
+
+function makeTd(textContent) {
+	const td = document.createElement('td');
+	td.innerText = textContent;
+	return td
+}
 
 async function loadAave() {
 	const response = await fetch('./files/aave.json');
