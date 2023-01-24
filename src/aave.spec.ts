@@ -21,5 +21,5 @@ test('should navigate to the home page', async ({page}) => {
         list.push({tokenSymbol: tokenSymbol, apy: apy});
     }
 
-    writeFileSync('./files/aave.json', JSON.stringify(list, null, '  '));
+    writeFileSync('./docs/files/aave.json', JSON.stringify(list, null, '  '));
 });

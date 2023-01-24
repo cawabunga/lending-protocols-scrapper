@@ -41,7 +41,7 @@ jobs:
 
       - uses: EndBug/add-and-commit@v9
         with:
-          add: 'files'
+          add: 'docs/files'
           message: 'Update files'
 
       - uses: actions/upload-artifact@v3
