@@ -17,6 +17,7 @@ export class AppComponent extends HTMLElement {
 	render() {
 		this.innerHTML = `<table>
 	<thead>
+		<th>Chain</th>
 		<th>Protocol</th>
 		<th>Symbol</th>
 		<th>APY</th>
@@ -33,6 +34,7 @@ export class AppComponent extends HTMLElement {
 				const tr = document.createElement('tr');
 
 				[
+					makeTd(aprItem.chainName),
 					makeTd(aprItem.protocol),
 					makeTd(aprItem.tokenSymbol),
 					makeTd(aprItem.apy),
