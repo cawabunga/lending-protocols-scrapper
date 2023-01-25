@@ -41,7 +41,7 @@ export class AppComponent extends HTMLElement {
 					makeTd(aprItem.chainName),
 					makeTd(aprItem.protocol),
 					makeTd(aprItem.tokenSymbol),
-					makeTd(aprItem.apy),
+					makeApyTd(aprItem.apy),
 				].forEach((node) => {
 					tr.append(node)
 				})
@@ -60,6 +60,12 @@ function makeTd(textContent) {
 	const td = document.createElement('td');
 	td.innerText = textContent;
 	return td
+}
+
+function makeApyTd(apy) {
+	const MULTIPLIER = 10000
+	const totalApy = apy.map((a) => a * MULTIPLIER).reduce((a, b) => a + b, 0) / MULTIPLIER;
+	return makeTd(`${totalApy}%`)
 }
 
 async function loadAave() {

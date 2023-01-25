@@ -39,7 +39,11 @@ async function extractAPY(page: Page, infoFactory: (attrs: Pick<ApyInfo, 'tokenS
     for (const row of await rows.all()) {
         const cols = row.locator('> div');
         const symbol = await cols.nth(0).textContent()
-        const apy = await cols.nth(1).textContent()
+        const apyRaw = await cols.nth(1).textContent()
+
+        const regexp = /\d*\.\d+|\d+\.?\d*/g // 0.1% or <0.01% or 0% or 1.1%4.5% or 0%1%
+        const apy = Array.from(apyRaw?.match(regexp) ?? []).map(Number);
+
         list.push(infoFactory({tokenSymbol: symbol, apy: apy}));
     }
 
