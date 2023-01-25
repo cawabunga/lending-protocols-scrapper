@@ -83,7 +83,7 @@
   {
     "tokenSymbol": "MAI",
     "apy": [
-      2.32
+      2.01
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -337,7 +337,7 @@
   {
     "tokenSymbol": "LINK",
     "apy": [
-      0.73
+      0.74
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
