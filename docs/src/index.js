@@ -35,6 +35,7 @@ class AppRoot extends LitElement {
       await loadAave(),
       await loadIronBank(),
       await loadFrancium(),
+      await loadPembrock(),
     ].flat();
   }
 
@@ -125,6 +126,11 @@ async function loadIronBank() {
 
 async function loadFrancium() {
   const response = await fetch("./files/francium.json");
+  return response.json();
+}
+
+async function loadPembrock() {
+  const response = await fetch("./files/pembrock.json");
   return response.json();
 }
 
