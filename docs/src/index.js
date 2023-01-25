@@ -10,7 +10,11 @@ export class AppComponent extends HTMLElement {
 	async connectedCallback() {
 		this.render();
 
-		const aprs = [await loadAave()].flat()
+		const aprs = [
+			await loadAave(),
+			await loadIronBank()
+		].flat()
+
 		this.renderAprs(aprs)
 	}
 
@@ -60,8 +64,12 @@ function makeTd(textContent) {
 
 async function loadAave() {
 	const response = await fetch('./files/aave.json');
-	const items = await response.json();
-	return items.map(item => ({...item, protocol: 'aave'}));
+	return response.json();
+}
+
+async function loadIronBank() {
+	const response = await fetch('./files/iron-bank.json');
+	return response.json();
 }
 
 main();
