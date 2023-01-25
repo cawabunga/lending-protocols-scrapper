@@ -31,7 +31,11 @@ class AppRoot extends LitElement {
   async connectedCallback() {
     await super.connectedCallback();
 
-    this.aprs = [await loadAave(), await loadIronBank()].flat();
+    this.aprs = [
+      await loadAave(),
+      await loadIronBank(),
+      await loadFrancium(),
+    ].flat();
   }
 
   render() {
@@ -116,6 +120,11 @@ async function loadAave() {
 
 async function loadIronBank() {
   const response = await fetch("./files/iron-bank.json");
+  return response.json();
+}
+
+async function loadFrancium() {
+  const response = await fetch("./files/francium.json");
   return response.json();
 }
 
