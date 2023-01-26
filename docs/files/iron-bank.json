@@ -292,8 +292,8 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.69,
-      2.82
+      0.77,
+      3.08
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       24.84,
-      11
+      11.28
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -337,7 +337,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      114.08,
+      114.09,
       0
     ],
     "chainName": "Optimism",
