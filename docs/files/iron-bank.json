@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      3.76
+      3.88
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       8.91,
-      9.88
+      9.89
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
