@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       8.91,
-      9.59
+      9.94
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -337,7 +337,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      113.82,
+      113.83,
       0
     ],
     "chainName": "Optimism",
@@ -435,7 +435,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      1.08
+      1.07
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
