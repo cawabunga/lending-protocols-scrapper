@@ -186,7 +186,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      5.74
+      5.79
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -194,7 +194,7 @@
   {
     "tokenSymbol": "WAVAX",
     "apy": [
-      5.74
+      5.79
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -292,8 +292,8 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      5.69,
-      9.16
+      4.27,
+      7.75
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
