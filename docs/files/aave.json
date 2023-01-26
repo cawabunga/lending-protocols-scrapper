@@ -101,7 +101,7 @@
     "tokenSymbol": "USDt",
     "apy": [
       3.18,
-      0.3
+      0.29
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -118,7 +118,7 @@
     "tokenSymbol": "BTC.b",
     "apy": [
       0.11,
-      1.17
+      1.16
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -265,7 +265,7 @@
   {
     "tokenSymbol": "jEUR",
     "apy": [
-      2.8
+      2.81
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -361,7 +361,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      1.35
+      1.36
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -385,7 +385,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      1.74
+      1.76
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
