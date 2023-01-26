@@ -274,7 +274,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      2.6,
+      2.63,
       0
     ],
     "chainName": "Optimism",
@@ -283,7 +283,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      2.6,
+      2.63,
       0
     ],
     "chainName": "Optimism",
@@ -328,8 +328,8 @@
   {
     "tokenSymbol": "OP",
     "apy": [
-      8.63,
-      9.92
+      8.91,
+      9.94
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
