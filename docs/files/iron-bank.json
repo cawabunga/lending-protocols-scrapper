@@ -202,7 +202,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      4.07
+      3.98
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       8.65,
-      10.11
+      10.13
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
