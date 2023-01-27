@@ -249,7 +249,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.2
+      1.22
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -313,7 +313,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      2.43
+      2.44
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -385,7 +385,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      1.86
+      1.87
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
