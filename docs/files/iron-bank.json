@@ -293,7 +293,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       41.29,
-      12.76
+      12.83
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       8.69,
-      10.11
+      10.2
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -411,7 +411,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      58.86
+      58.87
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
