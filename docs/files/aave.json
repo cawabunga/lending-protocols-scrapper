@@ -152,7 +152,7 @@
   {
     "tokenSymbol": "WBTC.e",
     "apy": [
-      0.38
+      0.39
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -281,7 +281,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.8
+      0.83
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -289,7 +289,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.2
+      2.18
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
