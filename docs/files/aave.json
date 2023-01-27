@@ -92,7 +92,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       1.29,
-      1.16
+      1.17
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -143,7 +143,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      1.08,
+      1.09,
       0.41
     ],
     "chainName": "Avalanche",
@@ -160,7 +160,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      0.16,
+      0.17,
       0.37
     ],
     "chainName": "Avalanche",
@@ -169,7 +169,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      0.91
+      0.92
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
