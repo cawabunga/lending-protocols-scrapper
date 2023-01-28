@@ -186,7 +186,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      5.12
+      5.11
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -194,7 +194,7 @@
   {
     "tokenSymbol": "WAVAX",
     "apy": [
-      5.12
+      5.11
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -226,7 +226,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.95
+      3.01
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -274,7 +274,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      2.66,
+      2.64,
       0
     ],
     "chainName": "Optimism",
@@ -283,7 +283,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      2.66,
+      2.64,
       0
     ],
     "chainName": "Optimism",
@@ -292,8 +292,8 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      5.74,
-      8.83
+      5.2,
+      8.35
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -310,7 +310,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      2.63,
+      2.64,
       0
     ],
     "chainName": "Optimism",
@@ -411,7 +411,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      48.03
+      48
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
