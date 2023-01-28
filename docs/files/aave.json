@@ -143,7 +143,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      1.02,
+      1.01,
       0.42
     ],
     "chainName": "Avalanche",
@@ -305,7 +305,7 @@
   {
     "tokenSymbol": "BAL",
     "apy": [
-      8.41
+      8.48
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
