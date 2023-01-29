@@ -118,7 +118,7 @@
     "tokenSymbol": "BTC.b",
     "apy": [
       0.11,
-      1.31
+      1.32
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -377,7 +377,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      2.12
+      2.11
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
