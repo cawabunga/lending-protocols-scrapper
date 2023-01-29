@@ -297,7 +297,7 @@
   {
     "tokenSymbol": "BAL",
     "apy": [
-      7.67
+      7.66
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -377,7 +377,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      2.11
+      2.12
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -385,7 +385,7 @@
   {
     "tokenSymbol": "jEUR",
     "apy": [
-      2.69
+      2.71
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
