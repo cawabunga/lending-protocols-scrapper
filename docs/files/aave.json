@@ -152,7 +152,7 @@
   {
     "tokenSymbol": "WBTC.e",
     "apy": [
-      0.4
+      0.39
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -160,7 +160,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      0.15,
+      0.16,
       0.42
     ],
     "chainName": "Avalanche",
@@ -273,7 +273,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.77
+      0.76
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -321,7 +321,7 @@
   {
     "tokenSymbol": "GHST",
     "apy": [
-      0.21
+      0.2
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -369,7 +369,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      0.3
+      0.31
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
