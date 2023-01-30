@@ -275,7 +275,7 @@
     "tokenSymbol": "ETH",
     "apy": [
       2.97,
-      0
+      2.36
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -284,7 +284,7 @@
     "tokenSymbol": "WETH",
     "apy": [
       2.97,
-      0
+      2.36
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -311,7 +311,7 @@
     "tokenSymbol": "DAI",
     "apy": [
       2.63,
-      0
+      2.02
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       8.76,
-      10.31
+      10.34
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -411,7 +411,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      11.66
+      11.67
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -427,7 +427,7 @@
   {
     "tokenSymbol": "UST",
     "apy": [
-      4.26
+      4.27
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
