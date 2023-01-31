@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       8.67,
-      10.28
+      10.33
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -371,7 +371,7 @@
   {
     "tokenSymbol": "BTC",
     "apy": [
-      1.02
+      0.96
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
