@@ -98,7 +98,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      0.26
+      0.19
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -218,7 +218,7 @@
   {
     "tokenSymbol": "USDT.e",
     "apy": [
-      4.03
+      4.06
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -274,8 +274,8 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      3.45,
-      0.88
+      3.46,
+      0.89
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -283,8 +283,8 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      3.45,
-      0.88
+      3.46,
+      0.89
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -328,8 +328,8 @@
   {
     "tokenSymbol": "OP",
     "apy": [
-      7.55,
-      9
+      7.99,
+      9.21
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -355,7 +355,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      5.66
+      5.67
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
