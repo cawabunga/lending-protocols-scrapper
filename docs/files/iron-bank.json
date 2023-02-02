@@ -293,7 +293,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       2.63,
-      5
+      5.02
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -311,7 +311,7 @@
     "tokenSymbol": "DAI",
     "apy": [
       2.72,
-      2.53
+      2.54
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       7.99,
-      9.63
+      9.53
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
