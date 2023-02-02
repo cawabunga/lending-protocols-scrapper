@@ -43,7 +43,7 @@
   {
     "tokenSymbol": "ORCA",
     "apy": [
-      0.03
+      0.01
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -59,7 +59,7 @@
   {
     "tokenSymbol": "RAY",
     "apy": [
-      13.91
+      23.54
     ],
     "chainName": "Solana",
     "protocol": "Francium"
