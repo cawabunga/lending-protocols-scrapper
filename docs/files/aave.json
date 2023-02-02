@@ -193,7 +193,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      12.32
+      11.55
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -273,7 +273,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.95
+      0.96
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -297,7 +297,7 @@
   {
     "tokenSymbol": "BAL",
     "apy": [
-      3.79
+      3.05
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
