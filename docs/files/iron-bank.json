@@ -130,7 +130,7 @@
   {
     "tokenSymbol": "ibCHF",
     "apy": [
-      0
+      0.02
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -138,7 +138,7 @@
   {
     "tokenSymbol": "ibGBP",
     "apy": [
-      0.02
+      0.13
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -146,7 +146,7 @@
   {
     "tokenSymbol": "ibAUD",
     "apy": [
-      4.1
+      24.36
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -162,7 +162,7 @@
   {
     "tokenSymbol": "ibKRW",
     "apy": [
-      0.01
+      0.12
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -186,7 +186,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      5.82
+      5.81
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -194,7 +194,7 @@
   {
     "tokenSymbol": "WAVAX",
     "apy": [
-      5.82
+      5.81
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -226,7 +226,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      3.36
+      3.34
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -275,7 +275,7 @@
     "tokenSymbol": "ETH",
     "apy": [
       3.46,
-      0.89
+      0.88
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -284,7 +284,7 @@
     "tokenSymbol": "WETH",
     "apy": [
       3.46,
-      0.89
+      0.88
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -293,7 +293,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       2.61,
-      4.95
+      4.93
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -311,7 +311,7 @@
     "tokenSymbol": "DAI",
     "apy": [
       2.72,
-      2.52
+      2.51
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       7.99,
-      9.31
+      9.3
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -355,7 +355,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      5.66
+      5.7
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -403,7 +403,7 @@
   {
     "tokenSymbol": "FUSDT",
     "apy": [
-      6.75
+      6.29
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
