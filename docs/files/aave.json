@@ -160,8 +160,8 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      0.33,
-      0.52
+      0.32,
+      0.51
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
