@@ -100,7 +100,7 @@
   {
     "tokenSymbol": "USDt",
     "apy": [
-      3.18,
+      3.17,
       0.34
     ],
     "chainName": "Avalanche",
@@ -177,7 +177,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      1.33
+      1.32
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
