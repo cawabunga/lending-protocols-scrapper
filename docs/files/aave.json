@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.3
+      0.29
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -193,7 +193,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      4.97
+      4.99
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
