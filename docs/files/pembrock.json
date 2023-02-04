@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "tokenSymbol": "PEM",
+    "apy": [
+      9.65
+    ],
+    "chainName": "Near",
+    "protocol": "Pembrock"
+  },
+  {
+    "tokenSymbol": "wNEAR",
+    "apy": [
+      10.5
+    ],
+    "chainName": "Near",
+    "protocol": "Pembrock"
+  },
+  {
+    "tokenSymbol": "STNEAR",
+    "apy": [
+      10.54
+    ],
+    "chainName": "Near",
+    "protocol": "Pembrock"
+  },
+  {
+    "tokenSymbol": "LINEAR",
+    "apy": [
+      3.81
+    ],
+    "chainName": "Near",
+    "protocol": "Pembrock"
+  },
+  {
+    "tokenSymbol": "NearX",
+    "apy": [
+      11.8
+    ],
+    "chainName": "Near",
+    "protocol": "Pembrock"
+  },
+  {
+    "tokenSymbol": "REF",
+    "apy": [
+      6.34
+    ],
+    "chainName": "Near",
+    "protocol": "Pembrock"
+  },
+  {
+    "tokenSymbol": "USDT.e",
+    "apy": [
+      6.79
+    ],
+    "chainName": "Near",
+    "protocol": "Pembrock"
+  },
+  {
+    "tokenSymbol": "USDC.e",
+    "apy": [
+      11.84
+    ],
+    "chainName": "Near",
+    "protocol": "Pembrock"
+  },
+  {
+    "tokenSymbol": "SWEAT",
+    "apy": [
+      18.53
+    ],
+    "chainName": "Near",
+    "protocol": "Pembrock"
+  },
+  {
+    "tokenSymbol": "ETH",
+    "apy": [
+      3.71
+    ],
+    "chainName": "Near",
+    "protocol": "Pembrock"
+  },
+  {
+    "tokenSymbol": "WBTC",
+    "apy": [
+      7.36
+    ],
+    "chainName": "Near",
+    "protocol": "Pembrock"
+  },
+  {
+    "tokenSymbol": "USN",
+    "apy": [
+      0
+    ],
+    "chainName": "Near",
+    "protocol": "Pembrock"
+  }
+]
