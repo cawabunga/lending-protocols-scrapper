@@ -169,7 +169,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.08
+      1.09
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -177,7 +177,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      1.28
+      1.24
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -241,7 +241,7 @@
   {
     "tokenSymbol": "agEUR",
     "apy": [
-      1.55
+      1.56
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
