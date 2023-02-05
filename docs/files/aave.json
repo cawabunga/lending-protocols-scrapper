@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.93
+      0.92
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -353,7 +353,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      1.57
+      1.58
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
