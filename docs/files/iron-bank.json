@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      10.04
+      10.05
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       1.85,
-      8.36
+      8.37
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
