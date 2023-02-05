@@ -234,7 +234,7 @@
   {
     "tokenSymbol": "USDC.e",
     "apy": [
-      3.58
+      3.59
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       1.82,
-      8.35
+      8.36
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -337,7 +337,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      0.58,
+      1.49,
       0
     ],
     "chainName": "Optimism",
