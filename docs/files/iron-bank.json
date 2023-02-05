@@ -66,7 +66,7 @@
   {
     "tokenSymbol": "EURS",
     "apy": [
-      3.97
+      0.31
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -226,7 +226,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      5.05
+      5.04
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -250,7 +250,7 @@
   {
     "tokenSymbol": "WBTC.e",
     "apy": [
-      3.22
+      2.15
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -293,7 +293,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       2.39,
-      4.27
+      4.29
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -311,7 +311,7 @@
     "tokenSymbol": "DAI",
     "apy": [
       2.69,
-      2.38
+      2.39
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       1.84,
-      8.27
+      8.24
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"

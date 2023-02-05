@@ -241,7 +241,7 @@
   {
     "tokenSymbol": "agEUR",
     "apy": [
-      1.63
+      1.64
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -313,7 +313,7 @@
   {
     "tokenSymbol": "DPI",
     "apy": [
-      0.25
+      0.24
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -321,7 +321,7 @@
   {
     "tokenSymbol": "GHST",
     "apy": [
-      0.11
+      0.1
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
