@@ -92,7 +92,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       1.41,
-      1.23
+      1.22
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -297,7 +297,7 @@
   {
     "tokenSymbol": "BAL",
     "apy": [
-      5.05
+      5.07
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
