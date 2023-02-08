@@ -249,7 +249,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.15
+      1.17
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -273,7 +273,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.92
+      0.93
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -313,7 +313,7 @@
   {
     "tokenSymbol": "DPI",
     "apy": [
-      0.23
+      0.24
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -369,7 +369,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      0.51
+      0.5
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -377,7 +377,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      2.29
+      2.22
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
