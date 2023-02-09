@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.29
+      0.3
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -100,7 +100,7 @@
   {
     "tokenSymbol": "USDt",
     "apy": [
-      6.67,
+      7.65,
       0.31
     ],
     "chainName": "Avalanche",
@@ -249,7 +249,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.26
+      1.27
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
