@@ -169,7 +169,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      0.93
+      0.92
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -241,7 +241,7 @@
   {
     "tokenSymbol": "agEUR",
     "apy": [
-      0.96
+      0.95
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -305,7 +305,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      2.87
+      2.9
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -377,7 +377,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      1.21
+      1.22
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
