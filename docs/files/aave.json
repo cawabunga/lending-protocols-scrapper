@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.91
+      0.9
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -152,7 +152,7 @@
   {
     "tokenSymbol": "WBTC.e",
     "apy": [
-      0.4
+      0.41
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -160,7 +160,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      0.44,
+      0.45,
       0.41
     ],
     "chainName": "Avalanche",
