@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       2.98,
-      6.4
+      6.42
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -355,7 +355,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      5.73
+      5.74
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -363,7 +363,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      4.55
+      4.56
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -371,7 +371,7 @@
   {
     "tokenSymbol": "BTC",
     "apy": [
-      0.87
+      0.88
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
