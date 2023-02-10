@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       2.95,
-      6.4
+      6.37
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -395,7 +395,7 @@
   {
     "tokenSymbol": "YFI",
     "apy": [
-      0.05
+      0.02
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -435,7 +435,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      0.68
+      0.37
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
