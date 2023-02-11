@@ -146,7 +146,7 @@
   {
     "tokenSymbol": "ibAUD",
     "apy": [
-      20.63
+      20.64
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -328,8 +328,8 @@
   {
     "tokenSymbol": "OP",
     "apy": [
-      5.36,
-      6.34
+      5.13,
+      6.32
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -355,7 +355,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      4.96
+      4.97
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
