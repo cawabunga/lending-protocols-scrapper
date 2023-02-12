@@ -92,7 +92,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       1.16,
-      1.21
+      1.2
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -193,7 +193,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      1.97
+      1.96
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
