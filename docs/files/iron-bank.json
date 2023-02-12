@@ -114,7 +114,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      5.89
+      5.9
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -275,7 +275,7 @@
     "tokenSymbol": "ETH",
     "apy": [
       2.01,
-      1.01
+      1
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -284,7 +284,7 @@
     "tokenSymbol": "WETH",
     "apy": [
       2.01,
-      1.01
+      1
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
