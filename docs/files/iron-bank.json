@@ -146,7 +146,7 @@
   {
     "tokenSymbol": "ibAUD",
     "apy": [
-      20.65
+      20.66
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -275,7 +275,7 @@
     "tokenSymbol": "ETH",
     "apy": [
       2,
-      0.98
+      0.97
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -284,7 +284,7 @@
     "tokenSymbol": "WETH",
     "apy": [
       2,
-      0.98
+      0.97
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -293,7 +293,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       0.46,
-      4.65
+      4.62
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -311,7 +311,7 @@
     "tokenSymbol": "DAI",
     "apy": [
       0.49,
-      1.97
+      1.96
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -328,8 +328,8 @@
   {
     "tokenSymbol": "OP",
     "apy": [
-      5.26,
-      5.98
+      5.78,
+      6.35
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -355,7 +355,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      2.77
+      3.55
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
