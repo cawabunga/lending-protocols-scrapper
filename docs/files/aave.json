@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.94
+      0.93
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.87
+      0.89
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -92,7 +92,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       1.29,
-      1.14
+      1.13
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -167,78 +167,6 @@
     "protocol": "Aave"
   },
   {
-    "tokenSymbol": "DAI",
-    "apy": [
-      0.62
-    ],
-    "chainName": "Optimism",
-    "protocol": "Aave"
-  },
-  {
-    "tokenSymbol": "sUSD",
-    "apy": [
-      1.25
-    ],
-    "chainName": "Optimism",
-    "protocol": "Aave"
-  },
-  {
-    "tokenSymbol": "USDC",
-    "apy": [
-      0.34
-    ],
-    "chainName": "Optimism",
-    "protocol": "Aave"
-  },
-  {
-    "tokenSymbol": "USDT",
-    "apy": [
-      2.71
-    ],
-    "chainName": "Optimism",
-    "protocol": "Aave"
-  },
-  {
-    "tokenSymbol": "AAVE",
-    "apy": [
-      0
-    ],
-    "chainName": "Optimism",
-    "protocol": "Aave"
-  },
-  {
-    "tokenSymbol": "LINK",
-    "apy": [
-      0.02
-    ],
-    "chainName": "Optimism",
-    "protocol": "Aave"
-  },
-  {
-    "tokenSymbol": "OP",
-    "apy": [
-      0
-    ],
-    "chainName": "Optimism",
-    "protocol": "Aave"
-  },
-  {
-    "tokenSymbol": "WBTC",
-    "apy": [
-      0.02
-    ],
-    "chainName": "Optimism",
-    "protocol": "Aave"
-  },
-  {
-    "tokenSymbol": "ETH",
-    "apy": [
-      0.27
-    ],
-    "chainName": "Optimism",
-    "protocol": "Aave"
-  },
-  {
     "tokenSymbol": "agEUR",
     "apy": [
       0.94
@@ -305,7 +233,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      5.33
+      5.85
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -329,7 +257,7 @@
   {
     "tokenSymbol": "LINK",
     "apy": [
-      0.51
+      0.55
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -353,7 +281,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      1.76
+      1.77
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
