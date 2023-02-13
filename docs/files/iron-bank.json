@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      10.44
+      10.45
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -274,8 +274,8 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      1.9,
-      1.07
+      1.93,
+      1.06
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -283,8 +283,8 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      1.9,
-      1.07
+      1.93,
+      1.06
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -293,7 +293,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       0.57,
-      4.83
+      4.84
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -328,8 +328,8 @@
   {
     "tokenSymbol": "OP",
     "apy": [
-      4.81,
-      7.41
+      4.85,
+      7.44
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -403,7 +403,7 @@
   {
     "tokenSymbol": "FUSDT",
     "apy": [
-      4.94
+      4.95
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
