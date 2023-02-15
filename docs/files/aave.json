@@ -92,7 +92,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       1.06,
-      1.25
+      1.26
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -118,7 +118,7 @@
     "tokenSymbol": "BTC.b",
     "apy": [
       0.12,
-      1.23
+      1.24
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -177,7 +177,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      1.16
+      1.17
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
