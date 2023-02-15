@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.82
+      0.88
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -233,7 +233,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.25
+      0.24
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
