@@ -242,7 +242,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      0.53
+      0.5
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -275,7 +275,7 @@
     "tokenSymbol": "ETH",
     "apy": [
       1.99,
-      0.77
+      0.78
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -284,7 +284,7 @@
     "tokenSymbol": "WETH",
     "apy": [
       1.99,
-      0.77
+      0.78
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       4.76,
-      5.67
+      5.71
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
