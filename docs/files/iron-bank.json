@@ -210,7 +210,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      6.15
+      6.12
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       4.83,
-      5.5
+      5.47
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -379,7 +379,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      3.72
+      3.7
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -459,7 +459,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      3.21
+      4.15
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
