@@ -310,7 +310,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      5.44,
+      5.42,
       0
     ],
     "chainName": "Optimism",
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       4.73,
-      5.16
+      5.28
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
