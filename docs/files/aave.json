@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.82
+      0.83
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -75,7 +75,7 @@
   {
     "tokenSymbol": "FRAX",
     "apy": [
-      18.57
+      6.88
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -161,7 +161,7 @@
     "tokenSymbol": "WETH.e",
     "apy": [
       0.31,
-      0.39
+      0.38
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
