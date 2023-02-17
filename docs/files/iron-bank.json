@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      4.02
+      4.04
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -378,7 +378,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      6.86
+      6.81
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
