@@ -241,7 +241,7 @@
   {
     "tokenSymbol": "agEUR",
     "apy": [
-      1.83
+      1.9
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -257,7 +257,7 @@
   {
     "tokenSymbol": "EURS",
     "apy": [
-      0.51
+      0.52
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -273,7 +273,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.23
+      1.24
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -281,7 +281,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.53
+      2.44
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -321,7 +321,7 @@
   {
     "tokenSymbol": "GHST",
     "apy": [
-      0.07
+      0.06
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -378,7 +378,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      2.19
+      2.22
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
