@@ -266,7 +266,7 @@
   {
     "tokenSymbol": "ALPHA.e",
     "apy": [
-      2.87
+      2.88
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -346,7 +346,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      3.21
+      3
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -354,7 +354,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      22.21
+      31.29
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -362,7 +362,7 @@
   {
     "tokenSymbol": "BTC",
     "apy": [
-      1.48
+      1.58
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
