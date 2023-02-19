@@ -66,8 +66,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      1.31,
-      0.33
+      1.31
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -91,7 +90,6 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.35,
       1.35
     ],
     "chainName": "Avalanche",
@@ -100,8 +98,7 @@
   {
     "tokenSymbol": "USDt",
     "apy": [
-      3.09,
-      0.29
+      3.07
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -117,8 +114,7 @@
   {
     "tokenSymbol": "BTC.b",
     "apy": [
-      0.1,
-      1.1
+      0.1
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -134,8 +130,7 @@
   {
     "tokenSymbol": "sAVAX",
     "apy": [
-      0,
-      0.41
+      0
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -143,8 +138,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      1.48,
-      0.46
+      1.48
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -305,7 +299,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      2.58
+      2.65
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -338,7 +332,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0,
-      1.94
+      1.91
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
