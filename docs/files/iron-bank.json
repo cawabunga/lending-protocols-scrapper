@@ -226,7 +226,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      4.97
+      4.98
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -354,7 +354,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      12.48
+      12.56
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -378,7 +378,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      6.53
+      6.54
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
