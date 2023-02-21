@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.67
+      1.71
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -249,7 +249,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.24
+      1.25
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
