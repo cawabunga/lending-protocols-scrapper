@@ -100,7 +100,7 @@
   {
     "tokenSymbol": "USDt",
     "apy": [
-      2.06,
+      2.07,
       0.31
     ],
     "chainName": "Avalanche",
@@ -338,7 +338,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0,
-      1.87
+      1.84
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
