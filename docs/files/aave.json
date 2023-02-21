@@ -92,7 +92,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       1.79,
-      1.54
+      1.55
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -118,7 +118,7 @@
     "tokenSymbol": "BTC.b",
     "apy": [
       0.1,
-      1.18
+      1.19
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -161,7 +161,7 @@
     "tokenSymbol": "WETH.e",
     "apy": [
       0.33,
-      0.42
+      0.43
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
