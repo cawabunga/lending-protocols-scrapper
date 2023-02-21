@@ -338,7 +338,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0,
-      1.88
+      1.89
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -354,7 +354,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      1.23
+      1.21
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
