@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.7
+      1.69
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -92,7 +92,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       1.74,
-      1.51
+      1.52
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -338,7 +338,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0,
-      1.82
+      1.81
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
