@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      7.21
+      7.18
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -258,7 +258,7 @@
   {
     "tokenSymbol": "LINK.e",
     "apy": [
-      79.01
+      79.02
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -378,7 +378,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      6.02
+      5.56
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
