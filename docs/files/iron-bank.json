@@ -130,7 +130,7 @@
   {
     "tokenSymbol": "ibCHF",
     "apy": [
-      0.61
+      0.64
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -258,7 +258,7 @@
   {
     "tokenSymbol": "LINK.e",
     "apy": [
-      79.36
+      79.37
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
