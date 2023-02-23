@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.04
+      1.05
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      3.14
+      3.15
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.84
+      0.83
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -66,8 +66,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      1.25,
-      0.34
+      1.25
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -91,8 +90,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.73,
-      1.5
+      1.73
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -100,8 +98,7 @@
   {
     "tokenSymbol": "USDt",
     "apy": [
-      2.1,
-      0.31
+      2.1
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -117,8 +114,7 @@
   {
     "tokenSymbol": "BTC.b",
     "apy": [
-      0.11,
-      1.19
+      0.11
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -134,8 +130,7 @@
   {
     "tokenSymbol": "sAVAX",
     "apy": [
-      0,
-      0.41
+      0
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -143,8 +138,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      1.47,
-      0.44
+      1.46
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -161,7 +155,7 @@
     "tokenSymbol": "WETH.e",
     "apy": [
       0.35,
-      0.42
+      0.41
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -249,7 +243,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.44
+      1.43
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -273,7 +267,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.46
+      1.47
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -338,7 +332,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0,
-      1.75
+      1.74
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
