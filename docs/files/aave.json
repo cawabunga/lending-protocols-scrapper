@@ -177,7 +177,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      1.27
+      1.23
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -241,7 +241,7 @@
   {
     "tokenSymbol": "wstETH",
     "apy": [
-      0.03
+      0.02
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
