@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      4.56
+      4.08
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      7.69
+      58.63
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      5.7
+      5.94
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -146,7 +146,7 @@
   {
     "tokenSymbol": "ibAUD",
     "apy": [
-      35.2
+      30.5
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -210,7 +210,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      5.35
+      5.33
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -218,7 +218,7 @@
   {
     "tokenSymbol": "USDT.e",
     "apy": [
-      6.58
+      6.56
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -226,7 +226,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      5.39
+      5.42
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -258,7 +258,7 @@
   {
     "tokenSymbol": "LINK.e",
     "apy": [
-      6.75
+      1.03
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -346,7 +346,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      3.04
+      2.93
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -378,7 +378,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      5.46
+      5.67
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -402,7 +402,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      107.54
+      39.89
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
