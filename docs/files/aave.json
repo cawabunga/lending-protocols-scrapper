@@ -233,7 +233,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.23
+      0.34
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -241,7 +241,7 @@
   {
     "tokenSymbol": "wstETH",
     "apy": [
-      71.56
+      0.01
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -289,7 +289,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      3.49
+      3.5
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -346,7 +346,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0,
-      1.69
+      1.7
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -386,7 +386,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      1.38
+      1.45
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
