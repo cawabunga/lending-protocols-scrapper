@@ -273,7 +273,7 @@
   {
     "tokenSymbol": "miMATIC",
     "apy": [
-      3.07
+      3.15
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -281,7 +281,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.49
+      1.5
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
