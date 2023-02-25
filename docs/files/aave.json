@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.75
+      0.76
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -118,7 +118,7 @@
     "tokenSymbol": "BTC.b",
     "apy": [
       0.1,
-      1.01
+      1
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -143,8 +143,8 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      1.64,
-      1.15
+      1.65,
+      1.16
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
