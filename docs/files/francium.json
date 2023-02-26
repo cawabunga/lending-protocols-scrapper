@@ -26,8 +26,8 @@
   {
     "tokenSymbol": "stSOL",
     "apy": [
-      0.74,
-      2.6
+      0.75,
+      2.61
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -43,7 +43,7 @@
   {
     "tokenSymbol": "ZBC",
     "apy": [
-      145.61
+      145.59
     ],
     "chainName": "Solana",
     "protocol": "Francium"
