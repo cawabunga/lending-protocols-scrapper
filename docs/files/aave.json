@@ -92,7 +92,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       1.4,
-      0.65
+      0.64
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -329,7 +329,7 @@
   {
     "tokenSymbol": "GHST",
     "apy": [
-      0.02
+      0.04
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -346,7 +346,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0,
-      1.9
+      1.85
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
