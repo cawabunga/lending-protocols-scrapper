@@ -233,7 +233,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.4
+      0.41
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -346,7 +346,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0,
-      1.92
+      1.93
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
