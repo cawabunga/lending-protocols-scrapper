@@ -118,7 +118,7 @@
     "tokenSymbol": "BTC.b",
     "apy": [
       0.1,
-      0.99
+      0.97
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -160,7 +160,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      0.55,
+      0.7,
       0.47
     ],
     "chainName": "Avalanche",
@@ -233,7 +233,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.41
+      0.4
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
