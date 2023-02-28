@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "EURS",
     "apy": [
-      2.23
+      1.94
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -346,7 +346,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0,
-      1.94
+      1.92
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
