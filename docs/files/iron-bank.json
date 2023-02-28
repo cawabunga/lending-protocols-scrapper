@@ -114,7 +114,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      130.64
+      130.65
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -146,7 +146,7 @@
   {
     "tokenSymbol": "ibAUD",
     "apy": [
-      29.82
+      29.83
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -186,7 +186,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      8.21
+      8.22
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -194,7 +194,7 @@
   {
     "tokenSymbol": "WAVAX",
     "apy": [
-      8.21
+      8.22
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -210,7 +210,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      4.84
+      4.85
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -402,7 +402,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      19.37
+      19.38
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
