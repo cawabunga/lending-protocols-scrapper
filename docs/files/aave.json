@@ -281,7 +281,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.18
+      1.17
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -337,7 +337,7 @@
   {
     "tokenSymbol": "LINK",
     "apy": [
-      0.68
+      0.67
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -394,7 +394,7 @@
   {
     "tokenSymbol": "jEUR",
     "apy": [
-      1.91
+      1.79
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
