@@ -114,7 +114,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      37.37
+      37.38
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -186,7 +186,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      8.31
+      8.3
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -194,7 +194,7 @@
   {
     "tokenSymbol": "WAVAX",
     "apy": [
-      8.31
+      8.3
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -226,7 +226,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      6.9
+      6.88
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
