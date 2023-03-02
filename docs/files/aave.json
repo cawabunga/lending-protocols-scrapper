@@ -42,7 +42,7 @@
   {
     "tokenSymbol": "LINK",
     "apy": [
-      0.06
+      0.05
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -83,7 +83,7 @@
   {
     "tokenSymbol": "FRAX",
     "apy": [
-      26.71
+      25.79
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -185,7 +185,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      1.57
+      1.56
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
