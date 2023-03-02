@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.14
+      1.16
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -83,7 +83,7 @@
   {
     "tokenSymbol": "FRAX",
     "apy": [
-      28.82
+      26.71
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
