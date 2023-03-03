@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.61
+      0.62
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.79
+      0.78
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -151,7 +151,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      1.9,
+      1.89,
       1.15
     ],
     "chainName": "Avalanche",
@@ -321,7 +321,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      1.78
+      1.8
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -337,7 +337,7 @@
   {
     "tokenSymbol": "GHST",
     "apy": [
-      0.04
+      0.03
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
