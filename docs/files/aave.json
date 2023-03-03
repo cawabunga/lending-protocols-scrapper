@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.87
+      0.89
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -394,7 +394,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      2.19
+      2.2
     ],
     "chainName": "Polygon",
     "protocol": "Aave"

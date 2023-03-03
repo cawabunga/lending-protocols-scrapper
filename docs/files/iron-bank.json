@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      5.01
+      4.98
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -346,7 +346,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      1.07
+      1.08
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -378,7 +378,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      37.92
+      36.4
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -394,7 +394,7 @@
   {
     "tokenSymbol": "FUSDT",
     "apy": [
-      267.61
+      0.76
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
