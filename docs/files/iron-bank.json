@@ -370,7 +370,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      5.62
+      5.7
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -378,7 +378,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      8.15
+      7.84
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -402,7 +402,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      105.63
+      105.64
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
