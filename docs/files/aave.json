@@ -151,7 +151,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      1.85,
+      1.88,
       1.15
     ],
     "chainName": "Avalanche",
@@ -241,7 +241,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.46
+      0.45
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -249,7 +249,7 @@
   {
     "tokenSymbol": "wstETH",
     "apy": [
-      0.17
+      0.35
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
