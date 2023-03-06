@@ -122,7 +122,7 @@
   {
     "tokenSymbol": "AAVE",
     "apy": [
-      0.23
+      0.24
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
     "tokenSymbol": "OP",
     "apy": [
       0.4,
-      6.36
+      6.37
     ],
     "chainName": "Optimism",
     "protocol": "Iron Bank"
@@ -387,7 +387,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      70.2
+      70.21
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
