@@ -168,7 +168,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      1.88,
+      1.6,
       0.43
     ],
     "chainName": "Avalanche",
@@ -249,7 +249,7 @@
   {
     "tokenSymbol": "wstETH",
     "apy": [
-      0.33
+      0.32
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
