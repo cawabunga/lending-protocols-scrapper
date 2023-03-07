@@ -168,7 +168,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      0.44,
+      0.79,
       0.43
     ],
     "chainName": "Avalanche",
@@ -297,7 +297,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.38
+      2.39
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
