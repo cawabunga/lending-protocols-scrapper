@@ -168,7 +168,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      0.51,
+      0.47,
       0.43
     ],
     "chainName": "Avalanche",
@@ -281,7 +281,7 @@
   {
     "tokenSymbol": "miMATIC",
     "apy": [
-      13.34
+      13.33
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
