@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.23
+      1.16
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      1.07
+      1.08
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -313,7 +313,7 @@
   {
     "tokenSymbol": "BAL",
     "apy": [
-      8.14
+      8.15
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -337,7 +337,7 @@
   {
     "tokenSymbol": "GHST",
     "apy": [
-      0.03
+      0.01
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -354,7 +354,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0,
-      1.93
+      1.92
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
