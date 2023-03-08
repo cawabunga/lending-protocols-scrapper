@@ -202,7 +202,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      7.8
+      8.12
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -210,7 +210,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      4.59
+      4.73
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -226,7 +226,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.87
+      1.93
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -328,7 +328,7 @@
   {
     "tokenSymbol": "OP",
     "apy": [
-      0.41,
+      0.42,
       0
     ],
     "chainName": "Optimism",
@@ -411,7 +411,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      237.76
+      237.77
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
