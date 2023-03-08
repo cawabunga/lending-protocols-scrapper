@@ -281,7 +281,7 @@
   {
     "tokenSymbol": "miMATIC",
     "apy": [
-      3.13
+      4.12
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -313,7 +313,7 @@
   {
     "tokenSymbol": "BAL",
     "apy": [
-      8.25
+      8.24
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -354,7 +354,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0,
-      1.92
+      1.93
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -394,7 +394,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      2.15
+      2.16
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
