@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      3.73
+      3.81
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      8.33
+      8.35
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      5.29
+      5.32
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -178,7 +178,7 @@
   {
     "tokenSymbol": "CVX",
     "apy": [
-      0.46
+      148.93
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
