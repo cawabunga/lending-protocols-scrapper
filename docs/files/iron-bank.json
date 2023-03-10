@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      4.9
+      4.91
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -138,7 +138,7 @@
   {
     "tokenSymbol": "ibGBP",
     "apy": [
-      2.07
+      2.08
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -146,7 +146,7 @@
   {
     "tokenSymbol": "ibAUD",
     "apy": [
-      29
+      29.64
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -162,7 +162,7 @@
   {
     "tokenSymbol": "ibKRW",
     "apy": [
-      1.47
+      1.48
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -242,7 +242,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      273.68
+      273.7
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -371,7 +371,7 @@
   {
     "tokenSymbol": "BTC",
     "apy": [
-      1.46
+      1.32
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -379,7 +379,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.43
+      1.45
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
