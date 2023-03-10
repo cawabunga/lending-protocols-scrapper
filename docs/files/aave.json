@@ -177,7 +177,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      0.74
+      0.75
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -354,7 +354,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0.06,
-      1.21
+      1.2
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
