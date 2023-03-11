@@ -42,7 +42,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.26
+      0.7
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      125.6
+      121.17
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -242,7 +242,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      295.57
+      295.59
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
