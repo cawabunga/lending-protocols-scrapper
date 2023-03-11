@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      5.23
+      5.4
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -242,7 +242,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      6.82
+      8.47
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -403,7 +403,7 @@
   {
     "tokenSymbol": "FUSDT",
     "apy": [
-      140.32
+      140.33
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
