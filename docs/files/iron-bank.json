@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      8.41
+      8.38
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      80.15
+      82.43
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -363,7 +363,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      23.42
+      23.43
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
