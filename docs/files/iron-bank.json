@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      5.19
+      4.32
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      97.65
+      97.66
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      4.68
+      3.32
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -379,7 +379,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.53
+      1.46
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -403,7 +403,7 @@
   {
     "tokenSymbol": "FUSDT",
     "apy": [
-      7.67
+      51.12
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
