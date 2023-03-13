@@ -242,7 +242,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      204.12
+      204.14
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -363,7 +363,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      21.64
+      21.06
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
