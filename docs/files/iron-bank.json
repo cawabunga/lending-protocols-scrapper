@@ -242,7 +242,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      204.32
+      204.33
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -301,7 +301,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.71,
+      1.35,
       0
     ],
     "chainName": "Optimism",
@@ -310,7 +310,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      0.99,
+      1.24,
       0
     ],
     "chainName": "Optimism",
