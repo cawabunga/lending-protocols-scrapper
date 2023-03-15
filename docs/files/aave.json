@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.03
+      1.04
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.75
+      1.77
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      9.59
+      4.07
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -82,7 +82,8 @@
   {
     "tokenSymbol": "BTC.b",
     "apy": [
-      0.07
+      0.07,
+      0.86
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -98,7 +99,8 @@
   {
     "tokenSymbol": "sAVAX",
     "apy": [
-      0
+      0,
+      1.08
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -106,7 +108,8 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      2.45
+      2.47,
+      1
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -122,7 +125,8 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      0.12
+      0.12,
+      0.27
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -130,7 +134,8 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      1.52
+      1.52,
+      0.78
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -154,7 +159,8 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.14
+      2.14,
+      1.38
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -162,7 +168,8 @@
   {
     "tokenSymbol": "USDt",
     "apy": [
-      1.98
+      1.98,
+      0.11
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -194,7 +201,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      3.05
+      3
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -290,7 +297,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      3.3
+      3.33
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -314,7 +321,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      5.61
+      5.63
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
