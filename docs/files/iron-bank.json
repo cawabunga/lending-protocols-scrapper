@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      24.84
+      24.85
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      122.68
+      122.71
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -227,7 +227,7 @@
   {
     "tokenSymbol": "USDT.e",
     "apy": [
-      7.08
+      7.09
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
