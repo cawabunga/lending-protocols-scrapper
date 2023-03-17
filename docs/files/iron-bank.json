@@ -310,7 +310,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      7.57,
+      0.08,
       0
     ],
     "chainName": "Optimism",
@@ -364,7 +364,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      0.91
+      0.94
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -388,7 +388,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      2.39
+      2.31
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -468,7 +468,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      97.23
+      97.24
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
