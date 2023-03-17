@@ -195,7 +195,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      2.16
+      2.13
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -203,7 +203,7 @@
   {
     "tokenSymbol": "WAVAX",
     "apy": [
-      2.16
+      2.13
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -259,7 +259,7 @@
   {
     "tokenSymbol": "WBTC.e",
     "apy": [
-      69.56
+      26.93
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -372,7 +372,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      18.92
+      8.24
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -468,7 +468,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      99.58
+      99.59
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
