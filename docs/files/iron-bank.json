@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      56.79
+      45.16
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -187,7 +187,7 @@
     "tokenSymbol": "wstETH",
     "apy": [
       0,
-      7.09
+      7.16
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -259,7 +259,7 @@
   {
     "tokenSymbol": "WBTC.e",
     "apy": [
-      73.74
+      69.55
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -372,7 +372,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      8.28
+      18.98
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -388,7 +388,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      2.97
+      2.37
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -468,7 +468,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      99.51
+      99.53
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
