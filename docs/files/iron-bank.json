@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      25.34
+      25.35
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -146,7 +146,7 @@
   {
     "tokenSymbol": "ibAUD",
     "apy": [
-      28.82
+      28.83
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -187,7 +187,7 @@
     "tokenSymbol": "wstETH",
     "apy": [
       0,
-      5.6
+      5.67
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -468,7 +468,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      101.22
+      101.96
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
