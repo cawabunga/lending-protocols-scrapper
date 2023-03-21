@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      48.77
+      48.78
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -211,7 +211,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      34.82
+      34.83
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -227,7 +227,7 @@
   {
     "tokenSymbol": "USDT.e",
     "apy": [
-      7.33
+      7.34
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
