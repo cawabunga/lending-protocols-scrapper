@@ -100,7 +100,7 @@
     "tokenSymbol": "USDC",
     "apy": [
       1.6,
-      1.08
+      1.07
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -297,7 +297,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.73
+      2.74
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -321,7 +321,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      6.27
+      6.26
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -378,7 +378,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.07
+      0.06
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
