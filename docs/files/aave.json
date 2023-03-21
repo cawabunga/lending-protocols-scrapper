@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      1.17
+      1.18
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -75,7 +75,7 @@
     "tokenSymbol": "DAI.e",
     "apy": [
       1.75,
-      0.82
+      0.81
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -126,7 +126,7 @@
     "tokenSymbol": "BTC.b",
     "apy": [
       0.09,
-      0.76
+      0.75
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -257,7 +257,7 @@
   {
     "tokenSymbol": "agEUR",
     "apy": [
-      2.36
+      2.37
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -265,7 +265,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      0.88
+      0.89
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
