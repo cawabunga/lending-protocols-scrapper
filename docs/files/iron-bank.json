@@ -91,7 +91,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      25.59
+      25.6
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -211,7 +211,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      20.41
+      20.42
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -251,7 +251,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      37.36
+      37.37
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -283,7 +283,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.99,
+      1,
       0
     ],
     "chainName": "Optimism",
@@ -292,7 +292,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      0.99,
+      1,
       0
     ],
     "chainName": "Optimism",
@@ -301,7 +301,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      3.39,
+      3.4,
       0
     ],
     "chainName": "Optimism",
@@ -468,7 +468,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      136.8
+      136.82
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
