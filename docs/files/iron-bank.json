@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      48.7
+      42.96
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      3.75
+      3.77
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -98,7 +98,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      0.26
+      0.19
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
