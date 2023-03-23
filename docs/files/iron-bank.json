@@ -91,7 +91,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      25.65
+      25.66
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -147,7 +147,7 @@
   {
     "tokenSymbol": "ibEUR",
     "apy": [
-      0.2
+      0.15
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -468,7 +468,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      137.43
+      137.44
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
