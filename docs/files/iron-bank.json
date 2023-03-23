@@ -187,7 +187,7 @@
   {
     "tokenSymbol": "ibCHF",
     "apy": [
-      0.78
+      0.7
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -251,7 +251,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      30.12
+      30.13
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -468,7 +468,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      138.03
+      138.05
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
