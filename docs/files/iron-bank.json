@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      37.34
+      61.04
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -147,7 +147,7 @@
   {
     "tokenSymbol": "ibEUR",
     "apy": [
-      0.42
+      0.38
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -195,7 +195,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      2.47
+      2.7
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -203,7 +203,7 @@
   {
     "tokenSymbol": "WAVAX",
     "apy": [
-      2.47
+      2.7
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -468,7 +468,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      137.34
+      137.35
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
