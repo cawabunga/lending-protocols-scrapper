@@ -83,7 +83,7 @@
   {
     "tokenSymbol": "FRAX",
     "apy": [
-      77.89
+      76.21
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -177,7 +177,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      2.84
+      2.85
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -297,7 +297,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.8
+      2.82
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -354,7 +354,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0.01,
-      1.36
+      1.35
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -378,7 +378,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.08
+      0.07
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
