@@ -364,7 +364,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      0.99
+      1.01
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -372,7 +372,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      8.46
+      8.47
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -468,7 +468,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      137.7
+      137.73
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
