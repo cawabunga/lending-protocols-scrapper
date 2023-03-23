@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      3.26
+      3.31
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -151,7 +151,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      2.38,
+      2.39,
       0.93
     ],
     "chainName": "Avalanche",
@@ -394,7 +394,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      1.43
+      1.53
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
