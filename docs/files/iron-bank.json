@@ -283,7 +283,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      1.36,
+      1.34,
       0
     ],
     "chainName": "Optimism",
@@ -292,7 +292,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      1.36,
+      1.34,
       0
     ],
     "chainName": "Optimism",
@@ -468,7 +468,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      138.89
+      138.9
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
