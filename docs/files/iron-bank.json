@@ -211,7 +211,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      9.01
+      82.69
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -259,7 +259,7 @@
   {
     "tokenSymbol": "WBTC.e",
     "apy": [
-      3.48
+      2.87
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -283,7 +283,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      1.33,
+      1.34,
       0
     ],
     "chainName": "Optimism",
@@ -292,7 +292,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      1.33,
+      1.34,
       0
     ],
     "chainName": "Optimism",
@@ -301,7 +301,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      3.2,
+      3.23,
       0
     ],
     "chainName": "Optimism",
