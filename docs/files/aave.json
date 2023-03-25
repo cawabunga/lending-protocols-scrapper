@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      1.93
+      1.92
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -42,7 +42,7 @@
   {
     "tokenSymbol": "LINK",
     "apy": [
-      0.14
+      0.13
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -74,7 +74,8 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      1.7
+      1.7,
+      0.77
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -98,7 +99,8 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.72
+      1.72,
+      1.1
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -106,7 +108,8 @@
   {
     "tokenSymbol": "USDt",
     "apy": [
-      2.9
+      2.9,
+      0.11
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -122,7 +125,8 @@
   {
     "tokenSymbol": "BTC.b",
     "apy": [
-      0.08
+      0.08,
+      0.74
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -138,7 +142,8 @@
   {
     "tokenSymbol": "sAVAX",
     "apy": [
-      0
+      0,
+      1.04
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -146,7 +151,8 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      2.39
+      2.39,
+      0.93
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -162,7 +168,8 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      0.45
+      0.45,
+      0.41
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -178,7 +185,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      1.52
+      1.27
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -306,7 +313,7 @@
   {
     "tokenSymbol": "BAL",
     "apy": [
-      11.3
+      11.27
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -356,7 +363,7 @@
     "tokenSymbol": "stMATIC",
     "apy": [
       0,
-      2.44
+      2.43
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -388,7 +395,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      1.65
+      1.67
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
