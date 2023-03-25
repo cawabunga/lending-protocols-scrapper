@@ -99,7 +99,7 @@
   {
     "tokenSymbol": "UNI",
     "apy": [
-      4.4
+      4.41
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -211,7 +211,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      82.85
+      82.86
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -468,7 +468,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      105.21
+      105.22
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
