@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "wstETH",
     "apy": [
-      0.37,
+      0.62,
       5.05
     ],
     "chainName": "Ethereum",
@@ -211,7 +211,7 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      82.93
+      82.94
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -468,7 +468,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      105.43
+      105.44
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
