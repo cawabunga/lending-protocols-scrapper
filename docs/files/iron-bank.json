@@ -121,14 +121,6 @@
     "protocol": "Iron Bank"
   },
   {
-    "tokenSymbol": "EURS",
-    "apy": [
-      0
-    ],
-    "chainName": "Ethereum",
-    "protocol": "Iron Bank"
-  },
-  {
     "tokenSymbol": "sUSD",
     "apy": [
       3.69
@@ -420,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      5.89
+      6.65
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
