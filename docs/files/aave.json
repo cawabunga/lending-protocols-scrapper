@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.93
+      2.94
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -126,7 +126,7 @@
     "tokenSymbol": "BTC.b",
     "apy": [
       0.08,
-      0.74
+      0.73
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
