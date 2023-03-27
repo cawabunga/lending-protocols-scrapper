@@ -163,7 +163,7 @@
   {
     "tokenSymbol": "ibAUD",
     "apy": [
-      6.68
+      6.81
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -293,7 +293,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      3.31,
+      3.3,
       0
     ],
     "chainName": "Optimism",
