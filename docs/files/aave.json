@@ -233,7 +233,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.05
+      0.04
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -353,8 +353,7 @@
   {
     "tokenSymbol": "MaticX",
     "apy": [
-      0.03,
-      1.27
+      0.03
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -362,8 +361,7 @@
   {
     "tokenSymbol": "stMATIC",
     "apy": [
-      0,
-      2.38
+      0
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
