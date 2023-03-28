@@ -321,7 +321,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      6.31
+      6.3
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -329,7 +329,7 @@
   {
     "tokenSymbol": "DPI",
     "apy": [
-      2.04
+      1.65
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
