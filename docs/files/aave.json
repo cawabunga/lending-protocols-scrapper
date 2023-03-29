@@ -42,7 +42,7 @@
   {
     "tokenSymbol": "LINK",
     "apy": [
-      0.1
+      0.07
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -345,7 +345,7 @@
   {
     "tokenSymbol": "LINK",
     "apy": [
-      0.74
+      0.73
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
