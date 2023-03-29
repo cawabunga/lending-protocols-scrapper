@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      15.93
+      11.01
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      1.07
+      1.06
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -75,7 +75,7 @@
     "tokenSymbol": "DAI.e",
     "apy": [
       1.99,
-      0.8
+      0.81
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -255,9 +255,17 @@
     "protocol": "Aave"
   },
   {
+    "tokenSymbol": "agEUR",
+    "apy": [
+      2.19
+    ],
+    "chainName": "Polygon",
+    "protocol": "Aave"
+  },
+  {
     "tokenSymbol": "DAI",
     "apy": [
-      1.38
+      1.01
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -265,7 +273,15 @@
   {
     "tokenSymbol": "EURS",
     "apy": [
-      2.67
+      0.33
+    ],
+    "chainName": "Polygon",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "miMATIC",
+    "apy": [
+      2.43
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -273,7 +289,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.92
+      1.74
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -281,7 +297,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      15.93
+      1.52
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -295,9 +311,67 @@
     "protocol": "Aave"
   },
   {
+    "tokenSymbol": "BAL",
+    "apy": [
+      11.41
+    ],
+    "chainName": "Polygon",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "CRV",
+    "apy": [
+      6.72
+    ],
+    "chainName": "Polygon",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "DPI",
+    "apy": [
+      1.66
+    ],
+    "chainName": "Polygon",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "GHST",
+    "apy": [
+      0.01
+    ],
+    "chainName": "Polygon",
+    "protocol": "Aave"
+  },
+  {
     "tokenSymbol": "LINK",
     "apy": [
-      0.08
+      0.73
+    ],
+    "chainName": "Polygon",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "MaticX",
+    "apy": [
+      0.02,
+      0.99
+    ],
+    "chainName": "Polygon",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "stMATIC",
+    "apy": [
+      0,
+      1.31
+    ],
+    "chainName": "Polygon",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "SUSHI",
+    "apy": [
+      1.36
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -305,23 +379,31 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      1.07
+      0.08
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
   },
   {
-    "tokenSymbol": "ETH",
+    "tokenSymbol": "WETH",
     "apy": [
-      1.11
+      0.16
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
   },
   {
-    "tokenSymbol": "wstETH",
+    "tokenSymbol": "MATIC",
     "apy": [
-      0.07
+      2.56
+    ],
+    "chainName": "Polygon",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "jEUR",
+    "apy": [
+      0.97
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
