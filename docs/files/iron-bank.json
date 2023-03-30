@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      4.22
+      4.24
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -43,7 +43,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      4.43
+      3.34
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -91,7 +91,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      26.41
+      26.42
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
