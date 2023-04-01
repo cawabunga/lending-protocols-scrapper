@@ -347,7 +347,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      0.3,
+      0.12,
       0
     ],
     "chainName": "Optimism",
@@ -404,7 +404,7 @@
   {
     "tokenSymbol": "FUSDT",
     "apy": [
-      2.85
+      2.86
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
