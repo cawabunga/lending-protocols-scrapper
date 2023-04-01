@@ -83,7 +83,7 @@
   {
     "tokenSymbol": "FRAX",
     "apy": [
-      3.07
+      2.97
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -363,7 +363,7 @@
     "tokenSymbol": "stMATIC",
     "apy": [
       0,
-      1.22
+      1.21
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
