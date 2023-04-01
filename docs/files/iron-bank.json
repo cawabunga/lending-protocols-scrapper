@@ -275,7 +275,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      1.35,
+      1.4,
       0
     ],
     "chainName": "Optimism",
@@ -284,7 +284,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      1.35,
+      1.4,
       0
     ],
     "chainName": "Optimism",
@@ -293,7 +293,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      3.55,
+      5.08,
       0
     ],
     "chainName": "Optimism",
