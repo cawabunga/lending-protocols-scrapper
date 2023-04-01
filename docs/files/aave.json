@@ -289,7 +289,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.53
+      2.54
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -313,7 +313,7 @@
   {
     "tokenSymbol": "BAL",
     "apy": [
-      10.72
+      10.98
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -321,7 +321,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      6.63
+      6.64
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
