@@ -186,7 +186,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.76
+      0.75
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -356,7 +356,7 @@
     "tokenSymbol": "stMATIC",
     "apy": [
       0,
-      1.2
+      1.21
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
