@@ -82,7 +82,7 @@
   {
     "tokenSymbol": "FRAX",
     "apy": [
-      2.77
+      2.87
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -178,7 +178,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      1.03
+      1.05
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -347,7 +347,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0.01,
-      1.02
+      1.01
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
