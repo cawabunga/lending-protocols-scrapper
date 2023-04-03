@@ -170,7 +170,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.11
+      1.13
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -178,7 +178,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      1.04
+      1.11
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
