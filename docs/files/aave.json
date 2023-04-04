@@ -282,7 +282,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.12
+      2.13
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -290,7 +290,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.09
+      2.1
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -364,7 +364,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      1.22
+      1.23
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
