@@ -314,7 +314,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      6.56
+      6.57
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -347,7 +347,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0.01,
-      1.07
+      1.04
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -372,7 +372,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.15
+      0.14
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
