@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.79
+      0.8
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.67
+      0.69
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      0.61
+      0.6
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -186,7 +186,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.91
+      0.9
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -314,7 +314,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      6.53
+      6.55
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
