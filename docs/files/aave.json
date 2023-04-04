@@ -314,7 +314,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      6.57
+      6.58
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -356,7 +356,7 @@
     "tokenSymbol": "stMATIC",
     "apy": [
       0,
-      1.28
+      1.29
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -364,7 +364,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      1.21
+      1.22
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
