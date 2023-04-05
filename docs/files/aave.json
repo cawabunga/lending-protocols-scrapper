@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.56
+      0.55
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -183,6 +183,14 @@
     "protocol": "Aave"
   },
   {
+    "tokenSymbol": "LUSD",
+    "apy": [
+      0
+    ],
+    "chainName": "Optimism",
+    "protocol": "Aave"
+  },
+  {
     "tokenSymbol": "sUSD",
     "apy": [
       1.94
@@ -289,7 +297,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.15
+      2.16
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -354,7 +362,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0.01,
-      1.19
+      1.22
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
