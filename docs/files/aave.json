@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      2.9
+      2.89
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -168,8 +168,8 @@
   {
     "tokenSymbol": "WETH.e",
     "apy": [
-      0.24,
-      0.4
+      0.26,
+      0.41
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
