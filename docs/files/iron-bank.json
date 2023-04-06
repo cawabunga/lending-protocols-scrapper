@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      13.92
+      12.48
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      4.29
+      4.3
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -91,7 +91,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      27.22
+      27.23
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -356,7 +356,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      3.3
+      3.29
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -364,7 +364,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      8.83
+      8.89
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
