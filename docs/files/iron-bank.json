@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      4.3
+      4.23
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -35,7 +35,7 @@
     "tokenSymbol": "wstETH",
     "apy": [
       0.67,
-      4.23
+      4.24
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -155,7 +155,7 @@
   {
     "tokenSymbol": "ibJPY",
     "apy": [
-      0.26
+      0.3
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
