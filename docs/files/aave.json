@@ -74,7 +74,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      1.97,
+      1.96,
       0.79
     ],
     "chainName": "Avalanche",
@@ -177,7 +177,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.29
+      1.28
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
