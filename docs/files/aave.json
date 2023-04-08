@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.45
+      0.44
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -177,7 +177,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.38
+      1.36
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -273,7 +273,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.52
+      1.55
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -321,7 +321,7 @@
   {
     "tokenSymbol": "BAL",
     "apy": [
-      9.95
+      9.91
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -403,7 +403,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      3.07
+      3.05
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
