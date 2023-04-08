@@ -185,7 +185,7 @@
   {
     "tokenSymbol": "LUSD",
     "apy": [
-      1.18
+      1.12
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -193,7 +193,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      1.56
+      1.52
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -273,7 +273,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.65
+      1.59
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -395,7 +395,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      0.1
+      0.11
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
