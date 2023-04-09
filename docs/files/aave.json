@@ -99,7 +99,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.25,
+      2.26,
       1.03
     ],
     "chainName": "Avalanche",
@@ -185,7 +185,7 @@
   {
     "tokenSymbol": "LUSD",
     "apy": [
-      0.81
+      0.79
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
