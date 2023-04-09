@@ -257,7 +257,7 @@
   {
     "tokenSymbol": "wstETH",
     "apy": [
-      0.07
+      0.09
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -305,7 +305,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      1.75
+      1.79
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
