@@ -155,7 +155,7 @@
   {
     "tokenSymbol": "ibJPY",
     "apy": [
-      0.3
+      0.44
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -163,7 +163,7 @@
   {
     "tokenSymbol": "ibAUD",
     "apy": [
-      6.61
+      8.61
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -227,7 +227,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      0.27
+      0.51
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
