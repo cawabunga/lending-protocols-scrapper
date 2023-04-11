@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      3.89
+      3.9
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -91,7 +91,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      27.86
+      27.87
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -179,7 +179,7 @@
   {
     "tokenSymbol": "ibCHF",
     "apy": [
-      0.9
+      0.86
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -293,7 +293,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      3.57,
+      3.58,
       0
     ],
     "chainName": "Optimism",
@@ -329,7 +329,7 @@
   {
     "tokenSymbol": "OP",
     "apy": [
-      4.25,
+      4.24,
       0
     ],
     "chainName": "Optimism",
