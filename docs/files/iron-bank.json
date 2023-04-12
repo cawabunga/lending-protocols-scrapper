@@ -251,7 +251,7 @@
   {
     "tokenSymbol": "WBTC.e",
     "apy": [
-      73.77
+      73.78
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -396,7 +396,7 @@
   {
     "tokenSymbol": "YFI",
     "apy": [
-      1
+      0.97
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -412,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      6.85
+      7.34
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
