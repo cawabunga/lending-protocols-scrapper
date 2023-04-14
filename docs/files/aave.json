@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "EURS",
     "apy": [
-      43.67
+      51.17
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -209,7 +209,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.95
+      2.9
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
