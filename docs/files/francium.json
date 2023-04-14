@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "SOL",
     "apy": [
-      3.11
+      3.24
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "stSOL",
     "apy": [
-      0.25,
+      0.27,
       0.49
     ],
     "chainName": "Solana",
@@ -59,7 +59,7 @@
   {
     "tokenSymbol": "RAY",
     "apy": [
-      27.73
+      36.93
     ],
     "chainName": "Solana",
     "protocol": "Francium"
