@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.27
+      0.28
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -353,7 +353,7 @@
   {
     "tokenSymbol": "LINK",
     "apy": [
-      0.42
+      0.41
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
