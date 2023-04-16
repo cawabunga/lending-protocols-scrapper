@@ -75,7 +75,7 @@
     "tokenSymbol": "DAI.e",
     "apy": [
       1.96,
-      0.9
+      0.91
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -99,8 +99,8 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.35,
-      1.24
+      1.37,
+      1.25
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -126,7 +126,7 @@
     "tokenSymbol": "BTC.b",
     "apy": [
       0.07,
-      1.14
+      1.15
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -172,6 +172,94 @@
       0.43
     ],
     "chainName": "Avalanche",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "DAI",
+    "apy": [
+      1.28
+    ],
+    "chainName": "Optimism",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "LUSD",
+    "apy": [
+      0.92
+    ],
+    "chainName": "Optimism",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "sUSD",
+    "apy": [
+      6.96
+    ],
+    "chainName": "Optimism",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "USDC",
+    "apy": [
+      1.6
+    ],
+    "chainName": "Optimism",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "USDT",
+    "apy": [
+      2.57
+    ],
+    "chainName": "Optimism",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "AAVE",
+    "apy": [
+      0
+    ],
+    "chainName": "Optimism",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "LINK",
+    "apy": [
+      0.21
+    ],
+    "chainName": "Optimism",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "OP",
+    "apy": [
+      0
+    ],
+    "chainName": "Optimism",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "WBTC",
+    "apy": [
+      0.06
+    ],
+    "chainName": "Optimism",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "ETH",
+    "apy": [
+      0.29
+    ],
+    "chainName": "Optimism",
+    "protocol": "Aave"
+  },
+  {
+    "tokenSymbol": "wstETH",
+    "apy": [
+      0.03
+    ],
+    "chainName": "Optimism",
     "protocol": "Aave"
   },
   {
