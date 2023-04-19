@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "EURS",
     "apy": [
-      7.96
+      6.99
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -91,7 +91,7 @@
   {
     "tokenSymbol": "MAI",
     "apy": [
-      2.3
+      2.32
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
