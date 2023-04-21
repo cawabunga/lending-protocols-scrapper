@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.44
+      2.45
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -370,7 +370,7 @@
     "tokenSymbol": "stMATIC",
     "apy": [
       0,
-      1.25
+      1.24
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
