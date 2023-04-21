@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      63.05
+      63.06
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -388,7 +388,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.97
+      2.95
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -404,7 +404,7 @@
   {
     "tokenSymbol": "FUSDT",
     "apy": [
-      3.48
+      3.74
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
