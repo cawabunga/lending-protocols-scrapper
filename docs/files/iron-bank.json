@@ -91,7 +91,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      28.99
+      29
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -364,7 +364,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      6.4
+      6.35
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -452,7 +452,7 @@
   {
     "tokenSymbol": "LINK",
     "apy": [
-      0.32
+      0.31
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
