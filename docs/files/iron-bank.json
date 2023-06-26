@@ -171,7 +171,7 @@
   {
     "tokenSymbol": "ibKRW",
     "apy": [
-      1.22
+      1.21
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -412,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      65.4
+      65.42
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
