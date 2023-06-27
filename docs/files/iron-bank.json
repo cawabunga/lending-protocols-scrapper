@@ -356,7 +356,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      0.79
+      0.78
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -380,7 +380,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1
+      1.01
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -396,7 +396,7 @@
   {
     "tokenSymbol": "YFI",
     "apy": [
-      1.26
+      1.59
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -412,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      65.49
+      65.51
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
