@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      20.52
+      20.53
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -243,7 +243,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      1.56
+      1.55
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -259,7 +259,7 @@
   {
     "tokenSymbol": "LINK.e",
     "apy": [
-      0
+      0.33
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -311,7 +311,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.65,
+      2.22,
       0
     ],
     "chainName": "Optimism",
@@ -364,7 +364,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      3.27
+      3.26
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -404,7 +404,7 @@
   {
     "tokenSymbol": "FUSDT",
     "apy": [
-      5.09
+      5.02
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -412,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      65.72
+      65.74
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
