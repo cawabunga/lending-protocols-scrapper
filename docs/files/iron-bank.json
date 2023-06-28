@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      6.69
+      6.33
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -412,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      65.77
+      65.78
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
