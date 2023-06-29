@@ -259,7 +259,7 @@
   {
     "tokenSymbol": "LINK.e",
     "apy": [
-      0.16
+      0
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -356,7 +356,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      0.8
+      0.79
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -412,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      69.12
+      69.13
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
