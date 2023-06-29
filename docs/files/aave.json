@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.24
+      2.34
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -42,7 +42,7 @@
   {
     "tokenSymbol": "USDC.e",
     "apy": [
-      2.35
+      2.33
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -130,8 +130,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.84,
-      0.28
+      1.84
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -139,8 +138,7 @@
   {
     "tokenSymbol": "USDt",
     "apy": [
-      2.1,
-      0.15
+      2.1
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -156,8 +154,7 @@
   {
     "tokenSymbol": "BTC.b",
     "apy": [
-      0.01,
-      0.2
+      0.01
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -173,8 +170,7 @@
   {
     "tokenSymbol": "sAVAX",
     "apy": [
-      0,
-      0.42
+      0
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -182,8 +178,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      2.94,
-      0.36
+      2.94
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -208,7 +203,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      2.43
+      2.47
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -224,7 +219,7 @@
   {
     "tokenSymbol": "MAI",
     "apy": [
-      2.21
+      2.59
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -240,7 +235,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.37
+      2.31
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -312,7 +307,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      2.12
+      2.11
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -328,7 +323,7 @@
   {
     "tokenSymbol": "miMATIC",
     "apy": [
-      1.22
+      1.27
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -368,7 +363,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      2.28
+      2.27
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -401,7 +396,7 @@
     "tokenSymbol": "MaticX",
     "apy": [
       0.01,
-      0.48
+      0.47
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
