@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      8.18
+      8.16
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -329,7 +329,7 @@
   {
     "tokenSymbol": "OP",
     "apy": [
-      6.68,
+      6.77,
       0
     ],
     "chainName": "Optimism",
@@ -412,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      69.26
+      69.27
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
