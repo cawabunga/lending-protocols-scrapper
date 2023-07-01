@@ -35,7 +35,7 @@
     "tokenSymbol": "wstETH",
     "apy": [
       0,
-      3.87
+      3.96
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -356,7 +356,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      0.79
+      0.8
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -412,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      69.57
+      69.59
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
