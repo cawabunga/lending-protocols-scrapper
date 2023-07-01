@@ -380,7 +380,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.03
+      1.04
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -412,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      69.53
+      69.54
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -444,7 +444,7 @@
   {
     "tokenSymbol": "AAVE",
     "apy": [
-      4.86
+      4.53
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
