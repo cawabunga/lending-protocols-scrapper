@@ -338,7 +338,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      186.67,
+      186.71,
       0
     ],
     "chainName": "Optimism",
@@ -404,7 +404,7 @@
   {
     "tokenSymbol": "FUSDT",
     "apy": [
-      2.9
+      3.11
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -412,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      69.89
+      69.9
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
