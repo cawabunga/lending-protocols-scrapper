@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      5.7
+      5.71
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -91,7 +91,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      2.23
+      2.24
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -338,7 +338,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      186.87,
+      186.91,
       0
     ],
     "chainName": "Optimism",
@@ -412,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      69.94
+      69.95
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
