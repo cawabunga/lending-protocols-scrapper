@@ -130,8 +130,8 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.75,
-      0.28
+      1.76,
+      0.29
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -140,7 +140,7 @@
     "tokenSymbol": "USDt",
     "apy": [
       2.19,
-      0.16
+      0.17
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -182,7 +182,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      2.91,
+      2.92,
       0.36
     ],
     "chainName": "Avalanche",
@@ -328,7 +328,7 @@
   {
     "tokenSymbol": "miMATIC",
     "apy": [
-      0.71
+      0.82
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
