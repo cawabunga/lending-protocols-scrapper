@@ -32,17 +32,17 @@
     "protocol": "Francium"
   },
   {
-    "tokenSymbol": "mSOL",
+    "tokenSymbol": "RAY",
     "apy": [
-      0.09
+      37.13
     ],
     "chainName": "Solana",
     "protocol": "Francium"
   },
   {
-    "tokenSymbol": "RAY",
+    "tokenSymbol": "mSOL",
     "apy": [
-      37.13
+      0.79
     ],
     "chainName": "Solana",
     "protocol": "Francium"
