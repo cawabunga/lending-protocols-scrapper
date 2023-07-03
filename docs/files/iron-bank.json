@@ -139,7 +139,7 @@
   {
     "tokenSymbol": "ibEUR",
     "apy": [
-      0.93
+      0.94
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -338,7 +338,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      187.77,
+      187.81,
       0
     ],
     "chainName": "Optimism",
@@ -356,7 +356,7 @@
   {
     "tokenSymbol": "WFTM",
     "apy": [
-      0.78
+      0.77
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -380,7 +380,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      0.91
+      0.93
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -412,7 +412,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      70.2
+      70.21
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
