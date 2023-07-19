@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "STNEAR",
     "apy": [
-      3.33
+      3.34
     ],
     "chainName": "Near",
     "protocol": "Pembrock"
@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "NearX",
     "apy": [
-      1.5
+      1.51
     ],
     "chainName": "Near",
     "protocol": "Pembrock"
@@ -42,7 +42,7 @@
   {
     "tokenSymbol": "REF",
     "apy": [
-      11.29
+      11.3
     ],
     "chainName": "Near",
     "protocol": "Pembrock"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "USDC.e",
     "apy": [
-      8.66
+      8.96
     ],
     "chainName": "Near",
     "protocol": "Pembrock"
@@ -98,7 +98,7 @@
   {
     "tokenSymbol": "NEKO",
     "apy": [
-      2.45
+      2.44
     ],
     "chainName": "Near",
     "protocol": "Pembrock"
