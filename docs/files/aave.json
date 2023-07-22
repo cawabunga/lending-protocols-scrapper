@@ -224,7 +224,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.91
+      1.92
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -248,7 +248,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      2.58
+      2.6
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -304,7 +304,7 @@
   {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.08
+      0.09
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -392,7 +392,7 @@
   {
     "tokenSymbol": "CRV",
     "apy": [
-      2.23
+      2.22
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -457,7 +457,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      0.38
+      0.39
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
