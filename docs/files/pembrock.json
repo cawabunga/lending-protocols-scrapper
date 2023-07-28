@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDT.e",
     "apy": [
-      10.33
+      10.32
     ],
     "chainName": "Near",
     "protocol": "Pembrock"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "USDC.e",
     "apy": [
-      11.42
+      11.45
     ],
     "chainName": "Near",
     "protocol": "Pembrock"
@@ -98,7 +98,7 @@
   {
     "tokenSymbol": "NEKO",
     "apy": [
-      2.31
+      2.3
     ],
     "chainName": "Near",
     "protocol": "Pembrock"
