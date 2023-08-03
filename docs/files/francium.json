@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.45
+      1.48
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      5.4
+      5.36
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "SOL",
     "apy": [
-      1.24
+      1.19
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "stSOL",
     "apy": [
-      0.31
+      0.34
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "SAMO",
     "apy": [
-      45.55
+      45.54
     ],
     "chainName": "Solana",
     "protocol": "Francium"
