@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "ORCA",
     "apy": [
-      0.03
+      0.01
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "SAMO",
     "apy": [
-      86.14
+      86.13
     ],
     "chainName": "Solana",
     "protocol": "Francium"
