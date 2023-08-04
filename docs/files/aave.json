@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      6.28
+      6.18
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "MAI",
     "apy": [
-      1.46
+      1.53
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -42,7 +42,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      5.53
+      3.78
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDC.e",
     "apy": [
-      4.71
+      4.09
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      3.31
+      3.32
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -122,7 +122,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      2.82
+      2.76
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -146,7 +146,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.81,
+      2.82,
       0.27
     ],
     "chainName": "Avalanche",
@@ -198,7 +198,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      2.64,
+      2.62,
       0.23
     ],
     "chainName": "Avalanche",
@@ -224,7 +224,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      1.8
+      1.91
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -232,7 +232,7 @@
   {
     "tokenSymbol": "LUSD",
     "apy": [
-      0.9
+      2.71
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -240,7 +240,7 @@
   {
     "tokenSymbol": "MAI",
     "apy": [
-      1.13
+      18.64
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -248,7 +248,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      2.64
+      3.16
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -256,7 +256,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.66
+      7.18
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -264,7 +264,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.54
+      1.12
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -280,7 +280,7 @@
   {
     "tokenSymbol": "LINK",
     "apy": [
-      0.1
+      0.17
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -294,9 +294,17 @@
     "protocol": "Aave"
   },
   {
+    "tokenSymbol": "rETH",
+    "apy": [
+      0.01
+    ],
+    "chainName": "Optimism",
+    "protocol": "Aave"
+  },
+  {
     "tokenSymbol": "WBTC",
     "apy": [
-      0.05
+      0.12
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -304,7 +312,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      1.41
+      1.76
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -320,7 +328,7 @@
   {
     "tokenSymbol": "agEUR",
     "apy": [
-      78.2
+      77.83
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -352,7 +360,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      7.29
+      8.76
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -448,7 +456,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      0.38
+      0.39
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -456,7 +464,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      1.85
+      1.84
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
