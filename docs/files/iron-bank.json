@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      25.35
+      25.36
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -379,7 +379,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      140.34
+      140.37
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -403,7 +403,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      384.22
+      384.23
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -411,7 +411,7 @@
   {
     "tokenSymbol": "FRAX",
     "apy": [
-      117.22
+      117.25
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -427,7 +427,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      104.14
+      104.17
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -451,7 +451,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      122.8
+      122.83
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
