@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "NearX",
     "apy": [
-      0
+      0.01
     ],
     "chainName": "Near",
     "protocol": "Pembrock"
@@ -98,7 +98,7 @@
   {
     "tokenSymbol": "NEKO",
     "apy": [
-      2.15
+      2.14
     ],
     "chainName": "Near",
     "protocol": "Pembrock"
