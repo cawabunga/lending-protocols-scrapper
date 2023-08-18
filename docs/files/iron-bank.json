@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "WETH",
     "apy": [
-      4.14
+      4.25
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -18,7 +18,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      7.13
+      7.12
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      44.39
+      44.4
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -67,7 +67,7 @@
   {
     "tokenSymbol": "CVX",
     "apy": [
-      25.23
+      25.24
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -139,7 +139,7 @@
   {
     "tokenSymbol": "ibEUR",
     "apy": [
-      0.99
+      0.86
     ],
     "chainName": "Ethereum",
     "protocol": "Iron Bank"
@@ -363,7 +363,7 @@
   {
     "tokenSymbol": "BTC",
     "apy": [
-      0.36
+      0.37
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -379,7 +379,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      125.69
+      125.74
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -403,7 +403,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      402.52
+      402.55
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -411,7 +411,7 @@
   {
     "tokenSymbol": "FRAX",
     "apy": [
-      120.31
+      120.36
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -427,7 +427,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      108.62
+      108.68
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -451,7 +451,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      127.51
+      127.57
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
