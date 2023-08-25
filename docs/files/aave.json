@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      1.81
+      1.78
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "USDC.e",
     "apy": [
-      2.39
+      2.42
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      3.29
+      3.37
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -42,15 +42,7 @@
   {
     "tokenSymbol": "ARB",
     "apy": [
-      0.1
-    ],
-    "chainName": "Arbitrum",
-    "protocol": "Aave"
-  },
-  {
-    "tokenSymbol": "DAI",
-    "apy": [
-      2.9
+      0.11
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -64,9 +56,17 @@
     "protocol": "Aave"
   },
   {
+    "tokenSymbol": "DAI",
+    "apy": [
+      76.21
+    ],
+    "chainName": "Arbitrum",
+    "protocol": "Aave"
+  },
+  {
     "tokenSymbol": "LINK",
     "apy": [
-      1.06
+      1.24
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -131,8 +131,8 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.39,
-      0.23
+      2.36,
+      0.22
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -140,7 +140,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      2.76,
+      2.8,
       0.23
     ],
     "chainName": "Avalanche",
@@ -166,7 +166,7 @@
   {
     "tokenSymbol": "USDt",
     "apy": [
-      2.2,
+      2.21,
       0.19
     ],
     "chainName": "Avalanche",
@@ -232,7 +232,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      1.48
+      1.47
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -240,7 +240,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.84
+      2.91
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -336,7 +336,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.44
+      2.42
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -376,7 +376,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.34
+      2.4
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
