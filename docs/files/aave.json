@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      5.89
+      5.85
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      11.12
+      7.98
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      3.8
+      3.81
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -66,7 +66,7 @@
   {
     "tokenSymbol": "LINK",
     "apy": [
-      0.72
+      0.61
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -148,7 +148,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      5.79,
+      9.59,
       0.25
     ],
     "chainName": "Avalanche",
@@ -175,8 +175,8 @@
   {
     "tokenSymbol": "USDt",
     "apy": [
-      90.91,
-      0.3
+      81.32,
+      0.29
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -184,7 +184,7 @@
   {
     "tokenSymbol": "DAI.e",
     "apy": [
-      5.56
+      6.18
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -216,7 +216,7 @@
   {
     "tokenSymbol": "FRAX",
     "apy": [
-      3.74
+      2.75
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -232,7 +232,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      1.52
+      1.51
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -240,7 +240,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.87
+      2.89
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -256,7 +256,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      92.48
+      83.79
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -264,7 +264,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      2.29
+      2.3
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -336,7 +336,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.45
+      2.43
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -352,7 +352,7 @@
   {
     "tokenSymbol": "MATIC",
     "apy": [
-      3.18
+      3.17
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -440,7 +440,7 @@
   {
     "tokenSymbol": "miMATIC",
     "apy": [
-      6.57
+      6.52
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -464,7 +464,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      8.12
+      8.04
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
