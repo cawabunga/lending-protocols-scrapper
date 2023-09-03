@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      1.1
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      4.13
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -18,31 +18,7 @@
   {
     "tokenSymbol": "SOL",
     "apy": [
-      2.23
-    ],
-    "chainName": "Solana",
-    "protocol": "Francium"
-  },
-  {
-    "tokenSymbol": "stSOL",
-    "apy": [
-      0.09
-    ],
-    "chainName": "Solana",
-    "protocol": "Francium"
-  },
-  {
-    "tokenSymbol": "RAY",
-    "apy": [
-      4.61
-    ],
-    "chainName": "Solana",
-    "protocol": "Francium"
-  },
-  {
-    "tokenSymbol": "ORCA",
-    "apy": [
-      0.01
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -50,23 +26,15 @@
   {
     "tokenSymbol": "mSOL",
     "apy": [
-      0.64
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
   },
   {
-    "tokenSymbol": "SAMO",
+    "tokenSymbol": "stSOL",
     "apy": [
-      1.51
-    ],
-    "chainName": "Solana",
-    "protocol": "Francium"
-  },
-  {
-    "tokenSymbol": "ZBC",
-    "apy": [
-      2.66
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -74,7 +42,31 @@
   {
     "tokenSymbol": "whETH",
     "apy": [
-      0.38
+      0
+    ],
+    "chainName": "Solana",
+    "protocol": "Francium"
+  },
+  {
+    "tokenSymbol": "RAY",
+    "apy": [
+      0
+    ],
+    "chainName": "Solana",
+    "protocol": "Francium"
+  },
+  {
+    "tokenSymbol": "ORCA",
+    "apy": [
+      0
+    ],
+    "chainName": "Solana",
+    "protocol": "Francium"
+  },
+  {
+    "tokenSymbol": "SAMO",
+    "apy": [
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -82,7 +74,15 @@
   {
     "tokenSymbol": "SHDW",
     "apy": [
-      0.01
+      0
+    ],
+    "chainName": "Solana",
+    "protocol": "Francium"
+  },
+  {
+    "tokenSymbol": "ZBC",
+    "apy": [
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
