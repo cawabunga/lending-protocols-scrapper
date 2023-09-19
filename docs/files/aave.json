@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "ETH",
     "apy": [
-      1.38
+      1.35
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -256,7 +256,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      2.02
+      2.03
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -368,7 +368,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      2.08
+      2.09
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
@@ -432,7 +432,7 @@
   {
     "tokenSymbol": "agEUR",
     "apy": [
-      14.8
+      2.45
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
