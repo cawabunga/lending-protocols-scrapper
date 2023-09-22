@@ -26,7 +26,7 @@
   {
     "tokenSymbol": "USDC.e",
     "apy": [
-      3
+      2.99
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -34,7 +34,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      3.2
+      3.16
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -42,7 +42,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.73
+      2.74
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -50,7 +50,7 @@
   {
     "tokenSymbol": "DAI",
     "apy": [
-      2.8
+      2.81
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -58,7 +58,7 @@
   {
     "tokenSymbol": "LINK",
     "apy": [
-      0.18
+      0.19
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -106,7 +106,7 @@
   {
     "tokenSymbol": "FRAX",
     "apy": [
-      5.79
+      2.61
     ],
     "chainName": "Arbitrum",
     "protocol": "Aave"
@@ -123,7 +123,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.75,
+      2.74,
       0.2
     ],
     "chainName": "Avalanche",
@@ -132,7 +132,7 @@
   {
     "tokenSymbol": "AVAX",
     "apy": [
-      2.62,
+      2.63,
       0.23
     ],
     "chainName": "Avalanche",
@@ -156,19 +156,19 @@
     "protocol": "Aave"
   },
   {
-    "tokenSymbol": "sAVAX",
+    "tokenSymbol": "USDt",
     "apy": [
-      0,
-      0.16
+      2.78,
+      0.23
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
   },
   {
-    "tokenSymbol": "USDt",
+    "tokenSymbol": "sAVAX",
     "apy": [
-      2.78,
-      0.23
+      0,
+      0.16
     ],
     "chainName": "Avalanche",
     "protocol": "Aave"
@@ -232,7 +232,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      2.58
+      2.59
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -248,7 +248,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      2.17
+      2.16
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -264,7 +264,7 @@
   {
     "tokenSymbol": "sUSD",
     "apy": [
-      8.95
+      2.55
     ],
     "chainName": "Optimism",
     "protocol": "Aave"
@@ -408,7 +408,7 @@
   {
     "tokenSymbol": "BAL",
     "apy": [
-      5.49
+      5.42
     ],
     "chainName": "Polygon",
     "protocol": "Aave"
