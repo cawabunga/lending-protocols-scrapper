@@ -2,7 +2,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      3.34
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -10,7 +10,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      5.75
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -18,15 +18,7 @@
   {
     "tokenSymbol": "SOL",
     "apy": [
-      3.95
-    ],
-    "chainName": "Solana",
-    "protocol": "Francium"
-  },
-  {
-    "tokenSymbol": "stSOL",
-    "apy": [
-      0.04
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -34,47 +26,15 @@
   {
     "tokenSymbol": "mSOL",
     "apy": [
-      1.07
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
   },
   {
-    "tokenSymbol": "ORCA",
+    "tokenSymbol": "stSOL",
     "apy": [
-      0.01
-    ],
-    "chainName": "Solana",
-    "protocol": "Francium"
-  },
-  {
-    "tokenSymbol": "RAY",
-    "apy": [
-      6.93
-    ],
-    "chainName": "Solana",
-    "protocol": "Francium"
-  },
-  {
-    "tokenSymbol": "SAMO",
-    "apy": [
-      0.08
-    ],
-    "chainName": "Solana",
-    "protocol": "Francium"
-  },
-  {
-    "tokenSymbol": "SHDW",
-    "apy": [
-      0.06
-    ],
-    "chainName": "Solana",
-    "protocol": "Francium"
-  },
-  {
-    "tokenSymbol": "ZBC",
-    "apy": [
-      0.11
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
@@ -82,7 +42,47 @@
   {
     "tokenSymbol": "whETH",
     "apy": [
-      0.45
+      0
+    ],
+    "chainName": "Solana",
+    "protocol": "Francium"
+  },
+  {
+    "tokenSymbol": "RAY",
+    "apy": [
+      0
+    ],
+    "chainName": "Solana",
+    "protocol": "Francium"
+  },
+  {
+    "tokenSymbol": "ORCA",
+    "apy": [
+      0
+    ],
+    "chainName": "Solana",
+    "protocol": "Francium"
+  },
+  {
+    "tokenSymbol": "SAMO",
+    "apy": [
+      0
+    ],
+    "chainName": "Solana",
+    "protocol": "Francium"
+  },
+  {
+    "tokenSymbol": "SHDW",
+    "apy": [
+      0
+    ],
+    "chainName": "Solana",
+    "protocol": "Francium"
+  },
+  {
+    "tokenSymbol": "ZBC",
+    "apy": [
+      0
     ],
     "chainName": "Solana",
     "protocol": "Francium"
