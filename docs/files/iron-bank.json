@@ -219,7 +219,7 @@
   {
     "tokenSymbol": "USDT",
     "apy": [
-      493.97
+      494.04
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -235,7 +235,7 @@
   {
     "tokenSymbol": "USDC",
     "apy": [
-      161.94
+      161.98
     ],
     "chainName": "Avalanche",
     "protocol": "Iron Bank"
@@ -411,7 +411,7 @@
   {
     "tokenSymbol": "MIM",
     "apy": [
-      493.01
+      493.02
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -419,7 +419,7 @@
   {
     "tokenSymbol": "FRAX",
     "apy": [
-      109.28
+      109.31
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -435,7 +435,7 @@
   {
     "tokenSymbol": "SUSHI",
     "apy": [
-      371.47
+      371.61
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
@@ -459,7 +459,7 @@
   {
     "tokenSymbol": "SNX",
     "apy": [
-      269.99
+      270.09
     ],
     "chainName": "Fantom",
     "protocol": "Iron Bank"
